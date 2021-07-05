@@ -64,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-Student: University of Illinois Urbana-Champaign class of 2022, Economics and Business and Computer Science. Personally, I am very fortunate to have experienced engagements in Immigration Law, Financial Services, Data Analytics as well as Non-Profit Organizations, which have really helped to shape a legal and financial foundation for my future.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-When I am not studying, or working, I spend my time practicing Kathak (Indian Classical Dance), debating, or writing.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
